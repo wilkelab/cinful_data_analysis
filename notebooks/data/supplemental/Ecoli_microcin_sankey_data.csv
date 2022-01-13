@@ -1,0 +1,61 @@
+a_component,b_verified,c_pcat_hits_assembly,d_mfp_hits_assembly,e_immunity_contig,variable,value,id,x,y
+assemblies,novel,no PCAT,no MFP,no immunity,n,54,1,a_component,assemblies
+assemblies,novel,no PCAT,no MFP,with immunity,n,21,2,a_component,assemblies
+assemblies,novel,with PCAT,no MFP,no immunity,n,22,3,a_component,assemblies
+assemblies,novel,with PCAT,no MFP,with immunity,n,34,4,a_component,assemblies
+assemblies,novel,with PCAT,with MFP,no immunity,n,21,5,a_component,assemblies
+assemblies,novel,with PCAT,with MFP,with immunity,n,34,6,a_component,assemblies
+assemblies,verified,no PCAT,no MFP,no immunity,n,23,7,a_component,assemblies
+assemblies,verified,no PCAT,no MFP,with immunity,n,4,8,a_component,assemblies
+assemblies,verified,with PCAT,no MFP,no immunity,n,56,9,a_component,assemblies
+assemblies,verified,with PCAT,no MFP,with immunity,n,37,10,a_component,assemblies
+assemblies,verified,with PCAT,with MFP,no immunity,n,75,11,a_component,assemblies
+assemblies,verified,with PCAT,with MFP,with immunity,n,25,12,a_component,assemblies
+assemblies,novel,no PCAT,no MFP,no immunity,n,54,1,b_verified,novel
+assemblies,novel,no PCAT,no MFP,with immunity,n,21,2,b_verified,novel
+assemblies,novel,with PCAT,no MFP,no immunity,n,22,3,b_verified,novel
+assemblies,novel,with PCAT,no MFP,with immunity,n,34,4,b_verified,novel
+assemblies,novel,with PCAT,with MFP,no immunity,n,21,5,b_verified,novel
+assemblies,novel,with PCAT,with MFP,with immunity,n,34,6,b_verified,novel
+assemblies,verified,no PCAT,no MFP,no immunity,n,23,7,b_verified,verified
+assemblies,verified,no PCAT,no MFP,with immunity,n,4,8,b_verified,verified
+assemblies,verified,with PCAT,no MFP,no immunity,n,56,9,b_verified,verified
+assemblies,verified,with PCAT,no MFP,with immunity,n,37,10,b_verified,verified
+assemblies,verified,with PCAT,with MFP,no immunity,n,75,11,b_verified,verified
+assemblies,verified,with PCAT,with MFP,with immunity,n,25,12,b_verified,verified
+assemblies,novel,no PCAT,no MFP,no immunity,n,54,1,c_pcat_hits_assembly,no PCAT
+assemblies,novel,no PCAT,no MFP,with immunity,n,21,2,c_pcat_hits_assembly,no PCAT
+assemblies,novel,with PCAT,no MFP,no immunity,n,22,3,c_pcat_hits_assembly,with PCAT
+assemblies,novel,with PCAT,no MFP,with immunity,n,34,4,c_pcat_hits_assembly,with PCAT
+assemblies,novel,with PCAT,with MFP,no immunity,n,21,5,c_pcat_hits_assembly,with PCAT
+assemblies,novel,with PCAT,with MFP,with immunity,n,34,6,c_pcat_hits_assembly,with PCAT
+assemblies,verified,no PCAT,no MFP,no immunity,n,23,7,c_pcat_hits_assembly,no PCAT
+assemblies,verified,no PCAT,no MFP,with immunity,n,4,8,c_pcat_hits_assembly,no PCAT
+assemblies,verified,with PCAT,no MFP,no immunity,n,56,9,c_pcat_hits_assembly,with PCAT
+assemblies,verified,with PCAT,no MFP,with immunity,n,37,10,c_pcat_hits_assembly,with PCAT
+assemblies,verified,with PCAT,with MFP,no immunity,n,75,11,c_pcat_hits_assembly,with PCAT
+assemblies,verified,with PCAT,with MFP,with immunity,n,25,12,c_pcat_hits_assembly,with PCAT
+assemblies,novel,no PCAT,no MFP,no immunity,n,54,1,d_mfp_hits_assembly,no MFP
+assemblies,novel,no PCAT,no MFP,with immunity,n,21,2,d_mfp_hits_assembly,no MFP
+assemblies,novel,with PCAT,no MFP,no immunity,n,22,3,d_mfp_hits_assembly,no MFP
+assemblies,novel,with PCAT,no MFP,with immunity,n,34,4,d_mfp_hits_assembly,no MFP
+assemblies,novel,with PCAT,with MFP,no immunity,n,21,5,d_mfp_hits_assembly,with MFP
+assemblies,novel,with PCAT,with MFP,with immunity,n,34,6,d_mfp_hits_assembly,with MFP
+assemblies,verified,no PCAT,no MFP,no immunity,n,23,7,d_mfp_hits_assembly,no MFP
+assemblies,verified,no PCAT,no MFP,with immunity,n,4,8,d_mfp_hits_assembly,no MFP
+assemblies,verified,with PCAT,no MFP,no immunity,n,56,9,d_mfp_hits_assembly,no MFP
+assemblies,verified,with PCAT,no MFP,with immunity,n,37,10,d_mfp_hits_assembly,no MFP
+assemblies,verified,with PCAT,with MFP,no immunity,n,75,11,d_mfp_hits_assembly,with MFP
+assemblies,verified,with PCAT,with MFP,with immunity,n,25,12,d_mfp_hits_assembly,with MFP
+assemblies,novel,no PCAT,no MFP,no immunity,n,54,1,e_immunity_contig,no immunity
+assemblies,novel,no PCAT,no MFP,with immunity,n,21,2,e_immunity_contig,with immunity
+assemblies,novel,with PCAT,no MFP,no immunity,n,22,3,e_immunity_contig,no immunity
+assemblies,novel,with PCAT,no MFP,with immunity,n,34,4,e_immunity_contig,with immunity
+assemblies,novel,with PCAT,with MFP,no immunity,n,21,5,e_immunity_contig,no immunity
+assemblies,novel,with PCAT,with MFP,with immunity,n,34,6,e_immunity_contig,with immunity
+assemblies,verified,no PCAT,no MFP,no immunity,n,23,7,e_immunity_contig,no immunity
+assemblies,verified,no PCAT,no MFP,with immunity,n,4,8,e_immunity_contig,with immunity
+assemblies,verified,with PCAT,no MFP,no immunity,n,56,9,e_immunity_contig,no immunity
+assemblies,verified,with PCAT,no MFP,with immunity,n,37,10,e_immunity_contig,with immunity
+assemblies,verified,with PCAT,with MFP,no immunity,n,75,11,e_immunity_contig,no immunity
+assemblies,verified,with PCAT,with MFP,with immunity,n,25,12,e_immunity_contig,with immunity
