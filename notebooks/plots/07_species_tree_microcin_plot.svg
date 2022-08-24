@@ -6,9 +6,9 @@
    viewBox="0 0 480.00 480.00"
    version="1.1"
    id="svg11490"
-   sodipodi:docname="07_Enterobacteriaceae_microcin_phylogeny_color_change_vFinal.svg"
+   sodipodi:docname="07_species_tree_microcin_plot.svg"
    inkscape:version="1.2.1 (ef4d3fba62, 2022-07-19, custom)"
-   inkscape:export-filename="../bb5c4009/07_species_tree_microcin_plot_AF.png"
+   inkscape:export-filename="../5ec75219/07_species_tree_microcin_plot.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -26,14 +26,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
      showgrid="false"
-     inkscape:zoom="0.89824658"
-     inkscape:cx="276.65009"
-     inkscape:cy="311.16177"
-     inkscape:window-width="1452"
-     inkscape:window-height="752"
-     inkscape:window-x="288"
-     inkscape:window-y="41"
-     inkscape:window-maximized="0"
+     inkscape:zoom="1.2703125"
+     inkscape:cx="316.85117"
+     inkscape:cy="290.47971"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg11490" />
   <defs
      id="defs10989">
@@ -1392,76 +1392,76 @@
      id="rect11458" />
   <g
      id="g11586"
-     style="fill:#91b1dc;fill-opacity:1">
+     style="fill:#7397c7;fill-opacity:1">
     <rect
        x="201.38"
        y="135.67999"
        width="6.9899998"
        height="12.21"
-       style="fill:#91b1dc;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
+       style="fill:#7397c7;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
        id="rect11370" />
     <rect
        x="201.38"
        y="122.12"
        width="3.3699999"
        height="12.21"
-       style="fill:#91b1dc;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
+       style="fill:#7397c7;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
        id="rect11372" />
     <rect
        x="201.38"
        y="108.55"
        width="2.1500001"
        height="12.21"
-       style="fill:#91b1dc;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
+       style="fill:#7397c7;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
        id="rect11374" />
     <rect
        x="201.38"
        y="81.43"
        width="6.1300001"
        height="12.21"
-       style="fill:#91b1dc;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
+       style="fill:#7397c7;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
        id="rect11376" />
     <rect
        x="201.38"
        y="67.870003"
        width="7.96"
        height="12.21"
-       style="fill:#91b1dc;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
+       style="fill:#7397c7;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
        id="rect11378" />
     <rect
        x="201.38"
        y="54.299999"
        width="4.5300002"
        height="12.21"
-       style="fill:#91b1dc;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
+       style="fill:#7397c7;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
        id="rect11380" />
     <rect
        x="201.38"
        y="40.740002"
        width="10.76"
        height="12.21"
-       style="fill:#91b1dc;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
+       style="fill:#7397c7;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
        id="rect11382" />
     <rect
        x="201.38"
        y="27.18"
        width="5.8299999"
        height="12.21"
-       style="fill:#91b1dc;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
+       style="fill:#7397c7;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
        id="rect11384" />
     <rect
        x="201.38"
        y="13.62"
        width="6.5300002"
        height="12.21"
-       style="fill:#91b1dc;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
+       style="fill:#7397c7;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
        id="rect11386" />
     <rect
        x="389.89001"
        y="192.28999"
        width="15.86"
        height="15.86"
-       style="fill:#91b1dc;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
+       style="fill:#7397c7;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
        id="rect11460" />
   </g>
   <rect
@@ -1473,76 +1473,76 @@
      id="rect11462" />
   <g
      id="g11574"
-     style="fill:#aedb89;fill-opacity:1">
+     style="fill:#8fc960;fill-opacity:1">
     <rect
        x="201.38"
        y="257.73999"
        width="163.2"
        height="12.21"
-       style="fill:#aedb89;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
+       style="fill:#8fc960;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
        id="rect11352" />
     <rect
        x="201.38"
        y="244.17999"
        width="163.2"
        height="12.21"
-       style="fill:#aedb89;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
+       style="fill:#8fc960;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
        id="rect11354" />
     <rect
        x="201.38"
        y="230.62"
        width="163.2"
        height="12.21"
-       style="fill:#aedb89;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
+       style="fill:#8fc960;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
        id="rect11356" />
     <rect
        x="201.38"
        y="217.05"
        width="161.89999"
        height="12.21"
-       style="fill:#aedb89;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
+       style="fill:#8fc960;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
        id="rect11358" />
     <rect
        x="201.38"
        y="203.49001"
        width="163.2"
        height="12.21"
-       style="fill:#aedb89;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
+       style="fill:#8fc960;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
        id="rect11360" />
     <rect
        x="201.38"
        y="189.92999"
        width="80.839996"
        height="12.21"
-       style="fill:#aedb89;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
+       style="fill:#8fc960;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
        id="rect11362" />
     <rect
        x="201.38"
        y="176.37"
        width="5.2600002"
        height="12.21"
-       style="fill:#aedb89;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
+       style="fill:#8fc960;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
        id="rect11364" />
     <rect
        x="201.38"
        y="162.8"
        width="27.98"
        height="12.21"
-       style="fill:#aedb89;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
+       style="fill:#8fc960;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
        id="rect11366" />
     <rect
        x="201.38"
        y="149.24001"
        width="59.349998"
        height="12.21"
-       style="fill:#aedb89;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
+       style="fill:#8fc960;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
        id="rect11368" />
     <rect
        x="389.89001"
        y="209.57001"
        width="15.86"
        height="15.86"
-       style="fill:#aedb89;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
+       style="fill:#8fc960;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
        id="rect11464" />
   </g>
   <rect
@@ -1554,48 +1554,48 @@
      id="rect11466" />
   <g
      id="g11594"
-     style="fill:#efd278;fill-opacity:1">
+     style="fill:#dfbf5d;fill-opacity:1">
     <rect
        x="201.38"
        y="339.12"
        width="150.64999"
        height="12.21"
-       style="fill:#efd278;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
+       style="fill:#dfbf5d;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
        id="rect11342" />
     <rect
        x="201.38"
        y="325.54999"
        width="83.019997"
        height="12.21"
-       style="fill:#efd278;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
+       style="fill:#dfbf5d;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
        id="rect11344" />
     <rect
        x="201.38"
        y="298.42999"
        width="1.55"
        height="12.21"
-       style="fill:#efd278;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
+       style="fill:#dfbf5d;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
        id="rect11346" />
     <rect
        x="201.38"
        y="284.87"
        width="9.2399998"
        height="12.21"
-       style="fill:#efd278;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
+       style="fill:#dfbf5d;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
        id="rect11348" />
     <rect
        x="201.38"
        y="271.29999"
        width="34.619999"
        height="12.21"
-       style="fill:#efd278;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
+       style="fill:#dfbf5d;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
        id="rect11350" />
     <rect
        x="389.89001"
        y="226.85001"
        width="15.86"
        height="15.86"
-       style="fill:#efd278;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
+       style="fill:#dfbf5d;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter;fill-opacity:1"
        id="rect11468" />
   </g>
   <rect
@@ -1608,24 +1608,24 @@
   <g
      id="g11598"
      transform="translate(-0.29520295,0.29520295)"
-     style="fill:#db9696;fill-opacity:1">
+     style="fill:#cf6e6e;fill-opacity:1">
     <g
        id="g11607"
-       style="fill:#db9696;fill-opacity:1"
+       style="fill:#cf6e6e;fill-opacity:1"
        transform="translate(0.27358722)">
       <rect
          x="201.38"
          y="366.23999"
          width="163.2"
          height="12.21"
-         style="fill:#db9696;fill-opacity:1;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter"
+         style="fill:#cf6e6e;fill-opacity:1;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter"
          id="rect11340" />
       <rect
          x="389.89001"
          y="244.13"
          width="15.86"
          height="15.86"
-         style="fill:#db9696;fill-opacity:1;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter"
+         style="fill:#cf6e6e;fill-opacity:1;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter"
          id="rect11472" />
     </g>
   </g>
@@ -1638,28 +1638,28 @@
      id="rect11474" />
   <g
      id="g11603"
-     style="fill:#c8a2e4;fill-opacity:1"
+     style="fill:#a674cb;fill-opacity:1"
      transform="translate(0,0.61439106)">
     <rect
        x="201.38"
        y="420.48999"
        width="12.88"
        height="12.21"
-       style="fill:#c8a2e4;fill-opacity:1;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter"
+       style="fill:#a674cb;fill-opacity:1;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter"
        id="rect11336" />
     <rect
        x="201.38"
        y="406.92999"
        width="11.13"
        height="12.21"
-       style="fill:#c8a2e4;fill-opacity:1;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter"
+       style="fill:#a674cb;fill-opacity:1;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter"
        id="rect11338" />
     <rect
        x="389.89001"
        y="261.41"
        width="15.86"
        height="15.86"
-       style="fill:#c8a2e4;fill-opacity:1;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter"
+       style="fill:#a674cb;fill-opacity:1;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter"
        id="rect11476" />
   </g>
   <text
