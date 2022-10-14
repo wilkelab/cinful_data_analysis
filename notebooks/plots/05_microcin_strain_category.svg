@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    class="svglite"
-   width="800pt"
+   width="797.86169pt"
    height="498.0878pt"
-   viewBox="0 0 800 498.0878"
+   viewBox="0 0 797.86169 498.08781"
    version="1.1"
    id="svg296"
-   sodipodi:docname="05_ecoli_microcin_environment_updated_hmm_final.svg"
-   inkscape:version="1.2.1 (ef4d3fba62, 2022-07-19, custom)"
+   sodipodi:docname="05_microcin_strain_category.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    inkscape:export-filename="../423c378d/05_ecoli_microcin_environment.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
@@ -27,14 +27,15 @@
      inkscape:document-units="pt"
      showgrid="false"
      inkscape:zoom="0.86907843"
-     inkscape:cx="552.30919"
-     inkscape:cy="357.27501"
-     inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:cx="571.29482"
+     inkscape:cy="400.42416"
+     inkscape:window-width="1846"
+     inkscape:window-height="989"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg296" />
+     inkscape:current-layer="svg296"
+     inkscape:pageshadow="2" />
   <defs
      id="defs150">
     <style
@@ -52,13 +53,6 @@
     }
   ]]></style>
   </defs>
-  <rect
-     width="100%"
-     height="100%"
-     style="fill:#ffffff;stroke:none"
-     id="rect152"
-     x="0"
-     y="0" />
   <defs
      id="defs157">
     <clipPath
@@ -74,13 +68,17 @@
   <g
      clip-path="url(#cpMC4wMHw4MDAuMDB8MC4wMHw0ODAuMDA=)"
      id="g161"
-     transform="scale(1,1.0376829)">
+     transform="scale(0.99732711,1.0376829)"
+     style="stroke-width:1.05467"
+     inkscape:export-filename="/media/aaron/33cc2fea-ce13-4ebb-b0fe-45bb99026799/microcins_enterobacterales/notebooks/plots/05_microcin_strain_category.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300">
     <rect
-       x="0"
-       y="-1.1e-13"
-       width="800"
-       height="480"
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.07"
+       x="0.01065525"
+       y="0.010620263"
+       width="799.97876"
+       height="499.9866"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.15173"
        id="rect159" />
   </g>
   <defs
@@ -97,7 +95,8 @@
   </defs>
   <g
      clip-path="url(#cpMTUzLjcwfDc5NC41Mnw1LjQ4fDQzNS43Mg==)"
-     id="g238">
+     id="g238"
+     transform="translate(-2.1371047)">
     <rect
        x="153.7"
        y="5.48"
@@ -221,25 +220,28 @@
     <text
        x="750.26001"
        y="54.599998"
-       style="font-size:22.76px;font-family:Arial"
+       style="font-size:22.76px;font-family:Arial;stroke-width:1.05263"
        textLength="22.75"
        lengthAdjust="spacingAndGlyphs"
-       id="text216">**</text>
+       id="text216"
+       transform="matrix(0.9025,0,0,1,74.260109,0)">**</text>
     <text
        x="658.60999"
        y="114.36"
-       style="font-size:22.76px;font-family:Arial"
+       style="font-size:22.76px;font-family:Arial;stroke-width:1.05263"
        textLength="11.38"
        lengthAdjust="spacingAndGlyphs"
-       id="text218">*</text>
+       id="text218"
+       transform="matrix(0.9025,0,0,1,64.769944,0)">*</text>
     <text
        x="251.17"
        y="413.14001"
        text-anchor="end"
-       style="font-size:22.76px;font-family:Arial"
+       style="font-size:22.76px;font-family:Arial;stroke-width:1.05263"
        textLength="34.130001"
        lengthAdjust="spacingAndGlyphs"
-       id="text220">***</text>
+       id="text220"
+       transform="matrix(0.9025,0,0,1,22.825933,0)">***</text>
     <rect
        x="537.19"
        y="193.71001"
@@ -298,72 +300,93 @@
        id="rect236" />
   </g>
   <g
-     clip-path="url(#cpMC4wMHw4MDAuMDB8MC4wMHw0ODAuMDA=)"
+     clip-path="none"
      id="g294"
-     style="fill:#000000;fill-opacity:1">
+     style="fill:#000000;fill-opacity:1"
+     transform="translate(-2.1371047)">
     <text
        x="148.77"
        y="404.53"
        text-anchor="end"
-       style="font-size:12.8px;font-family:Arial;fill:#000000;fill-opacity:1"
+       style="font-size:12.8px;font-family:Arial;fill:#000000;fill-opacity:1;stroke-width:1.00903"
        textLength="37.82"
        lengthAdjust="spacingAndGlyphs"
        id="text240"
-       transform="matrix(0.95,0,0,1,2.4673474,0)">Water</text>
+       transform="matrix(1.3436326,0,0,1.44,-52.658123,-176.08332)">Water</text>
     <text
        x="148.77"
        y="344.76999"
        text-anchor="end"
-       style="font-size:12.8px;font-family:Arial;fill:#000000;fill-opacity:1"
+       style="font-size:12.8px;font-family:Arial;fill:#000000;fill-opacity:1;stroke-width:1.00903"
        textLength="109.72"
        lengthAdjust="spacingAndGlyphs"
        id="text242"
-       transform="matrix(0.95,0,0,1,3.6308171,0)">Human Intestinal</text>
+       transform="matrix(1.3436326,0,0,1.44,-51.664682,-159.50332)"><tspan
+         sodipodi:role="line"
+         id="tspan138852"
+         x="148.77"
+         y="344.76999">Human</tspan><tspan
+         sodipodi:role="line"
+         id="tspan138854"
+         x="148.77"
+         y="363.74988"
+         dy="-5">Intestinal</tspan></text>
     <text
        x="148.77"
        y="285.01999"
        text-anchor="end"
-       style="font-size:12.8px;font-family:Arial;fill:#000000;fill-opacity:1"
+       style="font-size:12.8px;font-family:Arial;fill:#000000;fill-opacity:1;stroke-width:1.00903"
        textLength="92.230003"
        lengthAdjust="spacingAndGlyphs"
        id="text244"
-       transform="matrix(0.95,0,0,1,3.5937363,0)">Mammal Fecal</text>
+       transform="matrix(1.3436326,0,0,1.44,-51.714578,-123.3958)">Mammal Fecal</text>
     <text
        x="148.77"
        y="225.25999"
        text-anchor="end"
-       style="font-size:12.8px;font-family:Arial;fill:#000000;fill-opacity:1"
+       style="font-size:12.8px;font-family:Arial;fill:#000000;fill-opacity:1;stroke-width:1.00903"
        textLength="62.52"
        lengthAdjust="spacingAndGlyphs"
        id="text246"
-       transform="matrix(0.95,0,0,1,3.5818602,0)">Bird Fecal</text>
+       transform="matrix(1.3436326,0,0,1.44,-51.730558,-97.101398)">Bird Fecal</text>
     <text
        x="148.77"
        y="165.50999"
        text-anchor="end"
-       style="font-size:12.8px;font-family:Arial;fill:#000000;fill-opacity:1"
+       style="font-size:12.8px;font-family:Arial;fill:#000000;fill-opacity:1;stroke-width:1.00903"
        textLength="83.169998"
        lengthAdjust="spacingAndGlyphs"
        id="text248"
-       transform="matrix(0.95,0,0,1,3.5883368,0)">Human Fecal</text>
+       transform="matrix(1.3436326,0,0,1.44,-51.721843,-70.811398)">Human Fecal</text>
     <text
        x="148.77"
        y="105.75"
        text-anchor="end"
-       style="font-size:12.8px;font-family:Arial;fill:#000000;fill-opacity:1"
+       style="font-size:12.8px;font-family:Arial;fill:#000000;fill-opacity:1;stroke-width:1.00903"
        textLength="80.449997"
        lengthAdjust="spacingAndGlyphs"
        id="text250"
-       transform="matrix(0.95,0,0,1,2.7538474,0)">Poultry Meat</text>
+       transform="matrix(1.3436326,0,0,1.44,-52.837873,-45.073875)">Poultry Meat</text>
     <text
        x="148.77"
        y="45.990002"
        text-anchor="end"
-       style="font-size:12.8px;font-family:Arial;fill:#000000;fill-opacity:1"
+       style="font-size:12.8px;font-family:Arial;fill:#000000;fill-opacity:1;stroke-width:1.00901"
        textLength="143.28999"
        lengthAdjust="spacingAndGlyphs"
        id="text252"
-       transform="matrix(0.95,0,0,1,3.6325732,0)">Human Extraintestinal</text>
+       transform="matrix(1.3436326,0,0,1.44,-51.662318,-27.973491)"><tspan
+         sodipodi:role="line"
+         id="tspan97176"
+         x="148.77"
+         y="45.990002"
+         style="stroke-width:1.00901">Human</tspan><tspan
+         sodipodi:role="line"
+         id="tspan97178"
+         x="148.77"
+         y="64.835228"
+         style="stroke-width:1.00901"
+         dy="-5">Extraintestinal</tspan></text>
     <polyline
        points="150.96,399.87 153.70,399.87 "
        style="fill:#000000;fill-opacity:1;stroke:#333333;stroke-width:1.07;stroke-linecap:butt"
@@ -409,69 +432,50 @@
        style="fill:#000000;fill-opacity:1;stroke:#333333;stroke-width:1.07;stroke-linecap:butt"
        id="polyline274" />
     <text
-       x="238.77"
-       y="453.95001"
-       style="font-size:12.8px;font-family:Arial;fill:#000000;fill-opacity:1"
-       textLength="16.290001"
-       lengthAdjust="spacingAndGlyphs"
-       id="text276">10</text>
-    <text
        x="255.06"
        y="447.29999"
-       style="font-size:8.96px;font-family:Arial;fill:#000000;fill-opacity:1"
+       style="font-size:8.96px;font-family:Arial;fill:#000000;fill-opacity:1;stroke-width:1.02598"
        textLength="17.469999"
        lengthAdjust="spacingAndGlyphs"
-       id="text278">-0.4</text>
-    <text
-       x="384.41"
-       y="453.95001"
-       style="font-size:12.8px;font-family:Arial;fill:#000000;fill-opacity:1"
-       textLength="16.290001"
-       lengthAdjust="spacingAndGlyphs"
-       id="text280">10</text>
+       id="text278"
+       transform="matrix(2.1375,0,0,2.25,-312.02713,-550.76952)">-0.4</text>
     <text
        x="400.70001"
        y="447.29999"
-       style="font-size:8.96px;font-family:Arial;fill:#000000;fill-opacity:1"
+       style="font-size:8.96px;font-family:Arial;fill:#000000;fill-opacity:1;stroke-width:1.02598"
        textLength="17.469999"
        lengthAdjust="spacingAndGlyphs"
-       id="text282">-0.2</text>
-    <text
-       x="535.94"
-       y="453.95001"
-       style="font-size:12.8px;font-family:Arial;fill:#000000;fill-opacity:1"
-       textLength="16.290001"
-       lengthAdjust="spacingAndGlyphs"
-       id="text284">10</text>
+       id="text282"
+       transform="matrix(2.1375,0,0,2.25,-477.59717,-550.76952)">-0.2</text>
     <text
        x="552.22998"
        y="447.29999"
-       style="font-size:8.96px;font-family:Arial;fill:#000000;fill-opacity:1"
+       style="font-size:8.96px;font-family:Arial;fill:#000000;fill-opacity:1;stroke-width:1.02598"
        textLength="5.6999998"
        lengthAdjust="spacingAndGlyphs"
-       id="text286">0</text>
-    <text
-       x="677.31"
-       y="453.95001"
-       style="font-size:12.8px;font-family:Arial;fill:#000000;fill-opacity:1"
-       textLength="16.290001"
-       lengthAdjust="spacingAndGlyphs"
-       id="text288">10</text>
+       id="text286"
+       transform="matrix(2.1375,0,0,2.25,-639.67768,-550.76952)">0</text>
     <text
        x="693.59998"
        y="447.29999"
-       style="font-size:8.96px;font-family:Arial;fill:#000000;fill-opacity:1"
+       style="font-size:8.96px;font-family:Arial;fill:#000000;fill-opacity:1;stroke-width:1.02598"
        textLength="14.23"
        lengthAdjust="spacingAndGlyphs"
-       id="text290">0.2</text>
+       id="text290"
+       transform="matrix(2.1375,0,0,2.25,-805.2351,-550.76952)">0.2</text>
   </g>
   <text
      x="474.10999"
      y="471.19"
      text-anchor="middle"
-     style="font-size:16px;font-family:Arial;fill:#000000;fill-opacity:1"
+     style="font-size:16px;font-family:Arial;text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
      textLength="514.03003"
      lengthAdjust="spacingAndGlyphs"
      id="text292"
-     transform="matrix(0.95,0,0,1,23.709902,12)">Odds ratio of assemblies with microcins across isolation sources</text>
+     transform="matrix(1.197,0,0,1.2,-95.573066,-79.594251)"
+     dx="0 0 0"
+     rotate="0 0 0"
+     dy="0 0 0">Log<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-position:sub;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   id="tspan119890">10</tspan> odds ratio of assemblies with microcins across isolation sources</text>
 </svg>

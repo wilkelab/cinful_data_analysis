@@ -1,33 +1,44 @@
 species,n_microcins,clade,assemblies,percent_microcin
-Citrobacter_amalonaticus,2,Escherichia,41,0.04878048780487805
-Citrobacter_braakii,6,Escherichia,91,0.06593406593406594
-Citrobacter_koseri,1,Escherichia,36,0.027777777777777776
-Citrobacter_werkmanii,1,Escherichia,28,0.03571428571428571
-Citrobacter_youngae,1,Escherichia,25,0.04
-Cronobacter_dublinensis,3,Cronobacter,38,0.07894736842105263
-Cronobacter_malonaticus,3,Cronobacter,44,0.06818181818181818
-Enterobacter_cancerogenus,12,Enterobacter,13,0.9230769230769231
-Enterobacter_cloacae,6,Enterobacter,106,0.05660377358490566
-Enterobacter_hormaechei,411,Enterobacter,808,0.5086633663366337
-Enterobacter_kobei,1,Enterobacter,105,0.009523809523809525
-Enterobacter_ludwigii,14,Enterobacter,66,0.21212121212121213
-Escherichia_albertii,2,Escherichia,97,0.020618556701030927
-Escherichia_fergusonii,3,Escherichia,70,0.04285714285714286
-Escherichia_marmotae,1,Escherichia,76,0.013157894736842105
-Klebsiella_aerogenes,251,Klebsiella,251,1
-Klebsiella_michiganensis,6,Klebsiella,186,0.03225806451612903
-Klebsiella_oxytoca,53,Klebsiella,107,0.4953271028037383
-Klebsiella_pneumoniae,300,Klebsiella,300,1
-Klebsiella_quasipneumoniae,497,Klebsiella,501,0.9920159680638723
-Klebsiella_variicola,411,Klebsiella,411,1
-Kosakonia_radicincitans,14,Kosakonia,14,1
-Pluralibacter_gergoviae,20,Klebsiella,20,1
-Raoultella_ornithinolytica,12,Klebsiella,70,0.17142857142857143
-Raoultella_planticola,12,Klebsiella,33,0.36363636363636365
-Salmonella_enterica,30,Escherichia,799,0.03754693366708386
-Atlantibacter_hermannii,NA,Cronobacter,5,NA
-Cronobacter_sakazakii,NA,Cronobacter,371,NA
-Enterobacter_asburiae,NA,Enterobacter,8,NA
-Leclercia_adecarboxylata,NA,Enterobacter,23,NA
-Salmonella_bongori,NA,Escherichia,22,NA
-Kosakonia_cowanii,NA,Kosakonia,9,NA
+Citrobacter amalonaticus,5,Escherichia,64,0.078125
+Citrobacter braakii,6,Escherichia,126,0.047619047619047616
+Citrobacter koseri,2,Escherichia,109,0.01834862385321101
+Citrobacter werkmanii,3,Escherichia,65,0.046153846153846156
+Citrobacter youngae,2,Escherichia,40,0.05
+Cronobacter dublinensis,3,Cronobacter,42,0.07142857142857142
+Cronobacter malonaticus,3,Cronobacter,62,0.04838709677419355
+Cronobacter muytjensii,1,Cronobacter,8,0.125
+Enterobacter asburiae,6,Enterobacter,107,0.056074766355140186
+Enterobacter cancerogenus,15,Enterobacter,16,0.9375
+Enterobacter cloacae,12,Enterobacter,244,0.04918032786885246
+Enterobacter hormaechei,517,Enterobacter,984,0.5254065040650406
+Enterobacter kobei,1,Enterobacter,141,0.0070921985815602835
+Enterobacter ludwigii,20,Enterobacter,86,0.23255813953488372
+Escherichia albertii,2,Escherichia,107,0.018691588785046728
+Escherichia coli,156,Escherichia,939,0.16613418530351437
+Escherichia fergusonii,4,Escherichia,77,0.05194805194805195
+Escherichia marmotae,2,Escherichia,82,0.024390243902439025
+Klebsiella aerogenes,340,Klebsiella,340,1
+Klebsiella electrica,2,Klebsiella,2,1
+Klebsiella michiganensis,6,Klebsiella,274,0.021897810218978103
+Raoultella ornithinolytica,19,Klebsiella,92,0.20652173913043478
+Klebsiella oxytoca,87,Klebsiella,173,0.5028901734104047
+Raoultella planticola,16,Klebsiella,44,0.36363636363636365
+Klebsiella pneumoniae,980,Klebsiella,982,0.9979633401221996
+Klebsiella quasipneumoniae,622,Klebsiella,626,0.9936102236421726
+Klebsiella terrigena,1,Klebsiella,2,0.5
+Klebsiella variicola,520,Klebsiella,521,0.9980806142034548
+Kosakonia oryzae,3,Kosakonia,3,1
+Kosakonia radicincitans,13,Kosakonia,13,1
+Kosakonia sacchari,2,Kosakonia,7,0.2857142857142857
+Leclercia adecarboxylata,18,Enterobacter,96,0.1875
+Pluralibacter gergoviae,21,Klebsiella,22,0.9545454545454546
+Salmonella enterica,39,Escherichia,915,0.04262295081967213
+Atlantibacter hermannii,0,Cronobacter,29,0
+Cronobacter condimenti,0,Cronobacter,3,0
+Cronobacter sakazakii,0,Cronobacter,437,0
+Cronobacter universalis,0,Cronobacter,4,0
+Enterobacter mori,0,Enterobacter,23,0
+Kosakonia cowanii,0,Kosakonia,18,0
+Lelliottia amnigena,0,Enterobacter,16,0
+Lelliottia nimipressuralis,0,Enterobacter,9,0
+Salmonella bongori,0,Escherichia,32,0
